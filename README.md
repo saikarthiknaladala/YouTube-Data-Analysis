@@ -11,7 +11,7 @@ ETL System — We are getting data in raw format, transforming this data into th
 Data lake — We will be getting data from multiple sources so we need centralized repo to store them
 Scalability — As the size of our data increases, we need to make sure our system scales with it
 Cloud — We can’t process vast amounts of data on our local computer so we need to use the cloud, in this case, we will use AWS
-Reporting — Build a dashboard to get answers to the question we asked earlier
+Reporting — Build a dashboard to get answers to the questions we get.
 Services we will be using
 
 Amazon S3: Amazon S3 is an object storage service that provides manufacturing scalability, data availability, security, and performance.
@@ -29,6 +29,7 @@ https://www.kaggle.com/datasets/datasnaek/youtube-new
 Architecture Diagram
 
 ![architecture](https://github.com/saikarthiknaladala/YouTube-Data-Analysis/assets/144606889/d3bfd93b-db7e-4b29-ae7e-63f7de41d69b)
+
 
 
 
