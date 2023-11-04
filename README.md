@@ -31,7 +31,7 @@ Architecture Diagram
 ![architecture](https://github.com/saikarthiknaladala/YouTube-Data-Analysis/assets/144606889/d3bfd93b-db7e-4b29-ae7e-63f7de41d69b)
 
 Final Dashboard:
-![Final_YouTube_Data_Analysis_Dashboard](https://github.com/saikarthiknaladala/YouTube-Data-Analysis/assets/144606889/d3bfd93b-db7e-4b29-ae7e-63f7de41d69b)
+Final_YouTube_Data_Analysis_Dashboard.pdf
 
 
 
